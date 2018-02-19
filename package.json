@@ -1,0 +1,13 @@
+{
+  "name": "bump-deps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jean-Philippe Sirois <jp@veksen.net>",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^22.3.0"
+  }
+}
